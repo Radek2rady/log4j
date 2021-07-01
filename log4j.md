@@ -51,6 +51,19 @@
 Then the write is made to the logs.log file.
   Name and folder we can change.
 </p>
+<p>
+    Custom Log Levels
+The built-in log levels for log4j2 are:
+
+OFF
+FATAL
+ERROR
+WARN
+INFO
+DEBUG
+TRACE
+ALL
+</p>
 
 <h3>Environment variables</h3>
 <p>in environment variables I set the value of the entry from info above. of course we can discuss
