@@ -21,7 +21,7 @@
 
 <h2>Imports</h2>
 <p>
-  The imports should be z:
+  The imports should be from:
 </p>
 <i>org.apache.logging.log4j.LogManager
 </i>
