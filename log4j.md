@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
 </head>
 <body>
-<h3>Krátké shrnutí ohledně používaní logovací služby. Jak ho prakticky používat.</h3>
+<h3>A short summary on the use of the logging service. How to use it in practice.</h3>
 <h2>Start</h2>
 <p>
   In each class where you want to use the logger, create an instance of it, e.g.</p>
