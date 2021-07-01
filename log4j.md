@@ -55,13 +55,13 @@ Then the write is made to the logs.log file.
     Custom Log Levels
 The built-in log levels for log4j2 are:
 
-OFF
-FATAL
-ERROR
-WARN
-INFO
-DEBUG
-TRACE
+OFF, 
+FATAL, 
+ERROR, 
+WARN, 
+INFO, 
+DEBUG, 
+TRACE, 
 ALL
 </p>
 
