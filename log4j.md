@@ -51,8 +51,10 @@
 Then the write is made to the logs.log file.
   Name and folder we can change.
 </p>
-<p>
+<h3>
     Custom Log Levels
+</h3>
+<p> 
 The built-in log levels for log4j2 are:
 
 OFF, 
