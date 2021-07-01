@@ -48,11 +48,12 @@
 <p>
   variables, strings, getters, etc. can be used in the log entry
 
-Then the write is made to the logs.log file
+Then the write is made to the logs.log file.
+  Name and folder we can change.
 </p>
 
 <h3>Environment variables</h3>
 <p>in environment variables I set the value of the entry from info above. of course we can discuss
-  and change what will be suitable for our</p>
+  and change what will be suitable for our project</p>
 </body>
 </html>
